@@ -14,6 +14,7 @@ In the following [short video](https://youtu.be/CPlYV_DryEo) we discuss how to b
 <p align="center">
 	<iframe width="560" height="315" style='' src="https://www.youtube.com/embed/CPlYV_DryEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	</iframe>
+	
 </p>
 
 ## How to navigate this website and pass the course
